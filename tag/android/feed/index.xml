@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Android &#8211; AhteVirusHub</title>
+	<atom:link href="https://github.com/AhteVirus/AhteVirusHub/tag/android/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/AhteVirus/AhteVirusHub</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sun, 01 Nov 2020 20:30:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Android Rooting</title>
+		<link>https://github.com/AhteVirus/AhteVirusHub/2020/11/01/android-rooting/</link>
+					<comments>https://github.com/AhteVirus/AhteVirusHub/2020/11/01/android-rooting/#respond</comments>
+		
+		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
+		<pubDate>Sun, 01 Nov 2020 20:30:08 +0000</pubDate>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[android access]]></category>
+		<category><![CDATA[rooting android]]></category>
+		<guid isPermaLink="false">https://ahtevirus.tech/?p=42</guid>
+
+					<description><![CDATA[What is Rooting Android? No, it&#8217;s not the root of any tree, but the root of android. The rooting process allows the users of the mobile, tablet, or any platform that runs on the Android operating system to gain overall privileged control over the android subsystem. As android uses Linux Kernel, when we root our&#8230;&#160;<a href="https://github.com/AhteVirus/AhteVirusHub/2020/11/01/android-rooting/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Android Rooting</span></a>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="has-text-color" style="color:#ffa500">What is Rooting Android?</h2>
+
+
+
+<p>No, it&#8217;s not the root of any tree, but the root of android. The rooting process allows the users of the mobile, tablet, or any platform that runs on the Android operating system to gain overall privileged control over the android subsystem. As android uses Linux Kernel, when we root our android, it provides equal access to administrative permissions as on Linux-based operating systems like Unix, macOS, FreeBSD, etc.</p>
+
+
+
+<h2 class="has-text-color" style="color:#ffa500">Are there any benefits of rooting android?</h2>
+
+
+
+<p>Rooting your android platform has several benefits. Some of the services are as follows:</p>
+
+
+
+<ul><li>Take control</li></ul>
+
+
+
+<p>It provides an opportunity to back control of your device. Many or most of the android platforms restrict their users to customize the software infrastructures, not with bad intention but to prevent accidental damage of its infrastructure.</p>
+
+
+
+<ul><li>Free up space by removing bloatware</li></ul>
+
+
+
+<p>In new smartphones, the manufacturers preinstall some bloatware as the developers get paid to preinstall those applications, and it usually gets impossible to remove such apps. However, with full control, we can easily remove those applications which are not useful for us by merely rooting the device.</p>
+
+
+
+<ul><li>Custom Roms</li></ul>
+
+
+
+<p>In a rooted device, you also can install custom ROMs and enjoy several different types of operating systems. You can install other operating systems and alternative software kernels. This feature can help you enjoy new features without purchasing new devices. Some use this feature to update new android versions in tools that get no updates.</p>
+
+
+
+<h2 class="has-text-color" style="color:#ffa500">Not only advantages, but it also consists of several disadvantages.</h2>
+
+
+
+<p>Everything in the world has disadvantages with advantages. Similarly, rooting your device also consists of several disadvantages. Some of them as follows:</p>
+
+
+
+<ul><li>Voids the warranty</li></ul>
+
+
+
+<p>If you root your device, the warranty of such devices gets void by the manufacturer. As you gain the root access, the moment your warranty gets void. Afterward, if something happens to your software or hardware, your manufacturer will never fix such problems. However, rooting an android device isn&#8217;t illegal in any country.</p>
+
+
+
+<ul><li>Chances of brick</li></ul>
+
+
+
+<p>While rooting your device, there remain precarious chances that your device gets bricked. However, it is a rare possibility, and such problems only occur when you don&#8217;t root your device correctly. Every device has different ways and variables to get rooted, and if you don&#8217;t have a great idea about that, it would be better to ask someone else to make that possible for you. However, bricked devices can be fixed by flashing firmware.</p>
+
+
+
+<ul><li>Makes devices vulnerable</li></ul>
+
+
+
+<p>No other devices are as vulnerable as rooted devices. After rooting your device, you might get access to several features. Still, you have to be very selective while downloading and using any applications, as it stops scanning for malicious applications and allows everything to run on your device.</p>
+
+
+
+<ul><li>Losing access to secure applications</li></ul>
+
+
+
+<p>Rooting might make you lose several high-security applications like payment applications. Several apps with high-security checks whether your device is rooted or not after that, it starts functioning. However, losing access to some essential applications can cause several difficulties.</p>
+
+
+
+<p>If you think rooting your device is worthy, then first get a piece of useful knowledge about rooting devices, and then after thinking intelligently, take steps ahead to root your android device.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/AhteVirus/AhteVirusHub/2020/11/01/android-rooting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Android Application &#8211; AhteVirusHub</title>
+	<atom:link href="https://github.com/AhteVirus/AhteVirusHub/category/android-application/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.com/AhteVirus/AhteVirusHub</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 01 Jan 2021 08:20:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Learn and create Android application without coding</title>
+		<link>https://github.com/AhteVirus/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/</link>
+					<comments>https://github.com/AhteVirus/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/#respond</comments>
+		
+		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2021 08:20:28 +0000</pubDate>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android Application]]></category>
+		<category><![CDATA[Programming]]></category>
+		<guid isPermaLink="false">https://ahtevirus.tech/blog/?p=77</guid>
+
+					<description><![CDATA[Yes, that is possible, if we have ideas and we know the logic, then don’t sit and learn to code, execute our ideas, and bring them to reality. On the web, we can find several different types of platforms that provide us services to create an android application. However, among them most are paid and&#8230;&#160;<a href="https://github.com/AhteVirus/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn and create Android application without coding</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Yes, that is possible, if we have ideas and we know the logic, then don’t sit and learn to code, execute our ideas, and bring them to reality. On the web, we can find several different types of platforms that provide us services to create an android application. However, among them most are paid and expensive, many are based on templates only, and many don’t consist of several features to fulfill our needs.</p>
+
+
+
+<h2 class="has-neve-link-color-color has-text-color">A free platform to create an android application without coding</h2>
+
+
+
+<p>There are several web apps available where we can create android applications like <a href="https://appinventor.mit.edu/" target="_blank" rel="noreferrer noopener nofollow">MIT App inventor</a>, <a href="https://thunkable.com/" target="_blank" rel="noreferrer noopener nofollow">Thunkable</a>, <a href="http://appybuilder.com/" target="_blank" rel="noreferrer noopener nofollow">Appy builder</a>, etc. As these are native platforms they use different lines of codes and have limits in the size of the application. As they use different lines of codes a very small app size also gets boosted, which end ups providing an unoptimized experience.</p>
+
+
+
+<h3 class="has-neve-link-color-color has-text-color">Best Platform to build android apps without coding</h3>
+
+
+
+<p>According to my opinion, <a href="http://sketchware.io/" target="_blank" rel="noreferrer noopener nofollow">Sketchware</a> is the best platform to create android applications using a very easy to understand block language. In skechware’s platform, we can create amazing UI for android applications, just by using a drag and drop feature that makes it very simple to create the line of codes. For UI and main java files what we need is to just drag and drop the blocks according to logic, and the application will itself write the code for us.</p>
+
+
+
+<h4 class="has-neve-link-color-color has-text-color">Continuing the project to Android Studio</h4>
+
+
+
+<p>However, Sketchware uses a different library than Android Studio, we can use the source code file and continue with our project on Android Studio easily. As Sketchware has several features, and components to input, it is not necessary to continue our project to android. When we are getting something that can help to save our time, then what&#8217;s the necessity to make things complicated.</p>
+
+
+
+<h5 class="has-neve-link-color-color has-text-color">Coders can also use Sketchware</h5>
+
+
+
+<p>Sketchware is very convenient to use and can not only help those who don’t know about coding but also can help experienced coders. The features available in it are totally free, however, sometimes they show ads, but not at every point so it is acceptable. We can also purchase an ad-free version that is too cheap if you are creating high-level applications for earning purposes.</p>
+
+
+
+<h6 class="has-neve-link-color-color has-text-color">Not available for all platform</h6>
+
+
+
+<p>The only disadvantage of Sketchware IDE is that it only supports Android operating systems. If you want to use it on devices like PCs or laptops then you will need to install android operating systems on it. However, there are many available android operating systems, like Phoenix OS that can be installed on your device alongside windows and you can enjoy a dual-booting facility.</p>
+
+
+
+<h6 class="has-neve-link-color-color has-text-color">Where to learn the block language?</h6>
+
+
+
+<p>No worries, there are several videos and websites with tutorial blog available on the internet. Not only that soon we will also start with tutorials on our page of <a href="https://ahtevirus.tech/">AhteVirus</a>. In the tutorial, we will start with basics and try to cover as many aspects. Not only programming, but we will try our best to cover everything from designing to external integrations like ads and databases.&nbsp;</p>
+
+
+
+<p>We really need support and stay tuned with us.</p>
+
+
+
+<p><a href="https://t.me/virusahte/" target="_blank" rel="noreferrer noopener">Join AhteVirus&#8217; Telegram Channel for more information related to technology.</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://github.com/AhteVirus/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
