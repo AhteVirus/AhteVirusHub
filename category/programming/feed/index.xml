@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Programming &#8211; AhteVirusHub</title>
-	<atom:link href="https://github.com/AhteVirus/AhteVirusHub/category/programming/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/AhteVirus/AhteVirusHub</link>
+	<atom:link href="https://ahtevirus.github.io/AhteVirusHub/category/programming/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ahtevirus.github.io/AhteVirusHub</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 19 Jan 2021 16:17:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Learn about implementation and algorithm</title>
-		<link>https://github.com/AhteVirus/AhteVirusHub/2021/01/19/learn-about-implementation-and-algorithm/</link>
-					<comments>https://github.com/AhteVirus/AhteVirusHub/2021/01/19/learn-about-implementation-and-algorithm/#respond</comments>
+		<link>https://ahtevirus.github.io/AhteVirusHub/2021/01/19/learn-about-implementation-and-algorithm/</link>
+					<comments>https://ahtevirus.github.io/AhteVirusHub/2021/01/19/learn-about-implementation-and-algorithm/#respond</comments>
 		
 		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
 		<pubDate>Tue, 19 Jan 2021 16:17:22 +0000</pubDate>
 				<category><![CDATA[Programming]]></category>
 		<guid isPermaLink="false">https://ahtevirus.tech/blog/?p=164</guid>
 
-					<description><![CDATA[Learn about algorithm Learn to implement algorithm in the best manner Cons and pros of the algorithms You ever wondered how Google works as what the user demands? Google uses several complex algorithm to provide such impressive results. To understand Algorithms, we can say that it forms the base of any computing program to achieve&#8230;&#160;<a href="https://github.com/AhteVirus/AhteVirusHub/2021/01/19/learn-about-implementation-and-algorithm/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn about implementation and algorithm</span></a>]]></description>
+					<description><![CDATA[Learn about algorithm Learn to implement algorithm in the best manner Cons and pros of the algorithms You ever wondered how Google works as what the user demands? Google uses several complex algorithm to provide such impressive results. To understand Algorithms, we can say that it forms the base of any computing program to achieve&#8230;&#160;<a href="https://ahtevirus.github.io/AhteVirusHub/2021/01/19/learn-about-implementation-and-algorithm/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn about implementation and algorithm</span></a>]]></description>
 										<content:encoded><![CDATA[
 <ul><li>Learn about algorithm </li><li>Learn to implement algorithm in the best manner </li><li>Cons and pros of the algorithms</li></ul>
 
@@ -70,15 +70,15 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/AhteVirus/AhteVirusHub/2021/01/19/learn-about-implementation-and-algorithm/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ahtevirus.github.io/AhteVirusHub/2021/01/19/learn-about-implementation-and-algorithm/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Introduction to HTML</title>
-		<link>https://github.com/AhteVirus/AhteVirusHub/2021/01/09/introduction-to-html/</link>
-					<comments>https://github.com/AhteVirus/AhteVirusHub/2021/01/09/introduction-to-html/#respond</comments>
+		<link>https://ahtevirus.github.io/AhteVirusHub/2021/01/09/introduction-to-html/</link>
+					<comments>https://ahtevirus.github.io/AhteVirusHub/2021/01/09/introduction-to-html/#respond</comments>
 		
 		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
 		<pubDate>Sat, 09 Jan 2021 06:30:00 +0000</pubDate>
@@ -86,7 +86,7 @@
 		<category><![CDATA[Programming]]></category>
 		<guid isPermaLink="false">https://ahtevirus.tech/blog/?p=127</guid>
 
-					<description><![CDATA[HTML is the acronym of Hyper Text Markup Language. HTML is a standard markup language, using which we can build web sites or several web applications. However, This language is straightforward to learn and understand the programming language. HTML can describe the structure of a webpage, as it consists of a series of elements, and&#8230;&#160;<a href="https://github.com/AhteVirus/AhteVirusHub/2021/01/09/introduction-to-html/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Introduction to HTML</span></a>]]></description>
+					<description><![CDATA[HTML is the acronym of Hyper Text Markup Language. HTML is a standard markup language, using which we can build web sites or several web applications. However, This language is straightforward to learn and understand the programming language. HTML can describe the structure of a webpage, as it consists of a series of elements, and&#8230;&#160;<a href="https://ahtevirus.github.io/AhteVirusHub/2021/01/09/introduction-to-html/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Introduction to HTML</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>HTML is the acronym of Hyper Text Markup Language. HTML is a standard markup language, using which we can build web sites or several web applications. However, This language is straightforward to learn and understand the programming language. HTML can describe the structure of a webpage, as it consists of a series of elements, and such features command the browser on how to display any content.&nbsp;</p>
 
@@ -146,22 +146,22 @@
 <p>That is it, and now you will be displayed with the content that you have coded. Though this much simple is the language, the central part is your creativity and how you will design your content by coding. However, there are several more things available, which we will cover one by one. And if you also want to learn about such kinds of stuff, then stay connected with the community of <a href="https://ahtevirus.tech/">AhteVirus</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/AhteVirus/AhteVirusHub/2021/01/09/introduction-to-html/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ahtevirus.github.io/AhteVirusHub/2021/01/09/introduction-to-html/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Learn to code for free and communicate with computer systems</title>
-		<link>https://github.com/AhteVirus/AhteVirusHub/2021/01/08/learn-to-code-for-free-and-communicate-with-computer-systems-2/</link>
-					<comments>https://github.com/AhteVirus/AhteVirusHub/2021/01/08/learn-to-code-for-free-and-communicate-with-computer-systems-2/#respond</comments>
+		<link>https://ahtevirus.github.io/AhteVirusHub/2021/01/08/learn-to-code-for-free-and-communicate-with-computer-systems-2/</link>
+					<comments>https://ahtevirus.github.io/AhteVirusHub/2021/01/08/learn-to-code-for-free-and-communicate-with-computer-systems-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
 		<pubDate>Fri, 08 Jan 2021 08:22:42 +0000</pubDate>
 				<category><![CDATA[Programming]]></category>
 		<guid isPermaLink="false">https://ahtevirus.tech/blog/?p=123</guid>
 
-					<description><![CDATA[Anyone can learn to code. To learn to code every individual needs passion, 5-10 mins per day, dedication, and a brain to understand the logic. Here you know coding from the ground to up. Learning to code is useful to be a programmer? The language using which we communicate with computer systems is known as&#8230;&#160;<a href="https://github.com/AhteVirus/AhteVirusHub/2021/01/08/learn-to-code-for-free-and-communicate-with-computer-systems-2/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn to code for free and communicate with computer systems</span></a>]]></description>
+					<description><![CDATA[Anyone can learn to code. To learn to code every individual needs passion, 5-10 mins per day, dedication, and a brain to understand the logic. Here you know coding from the ground to up. Learning to code is useful to be a programmer? The language using which we communicate with computer systems is known as&#8230;&#160;<a href="https://ahtevirus.github.io/AhteVirusHub/2021/01/08/learn-to-code-for-free-and-communicate-with-computer-systems-2/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn to code for free and communicate with computer systems</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Anyone can learn to code. To learn to code every individual needs passion, 5-10 mins per day, dedication, and a brain to understand the logic. Here you know coding from the ground to up.</p>
 
@@ -210,15 +210,15 @@
 <p>However, if someone learns these languages, the person can be able to create several advanced levels of software, website, and applications. Indeed, the career as a programmer is terrific, but the most important thing to learn to program is passion. If the person is not interested and wants to learn to program, then the person can never succeed. Anyone can learn to code.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/AhteVirus/AhteVirusHub/2021/01/08/learn-to-code-for-free-and-communicate-with-computer-systems-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ahtevirus.github.io/AhteVirusHub/2021/01/08/learn-to-code-for-free-and-communicate-with-computer-systems-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Learn and create Android application without coding</title>
-		<link>https://github.com/AhteVirus/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/</link>
-					<comments>https://github.com/AhteVirus/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/#respond</comments>
+		<link>https://ahtevirus.github.io/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/</link>
+					<comments>https://ahtevirus.github.io/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/#respond</comments>
 		
 		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
 		<pubDate>Fri, 01 Jan 2021 08:20:28 +0000</pubDate>
@@ -227,7 +227,7 @@
 		<category><![CDATA[Programming]]></category>
 		<guid isPermaLink="false">https://ahtevirus.tech/blog/?p=77</guid>
 
-					<description><![CDATA[Yes, that is possible, if we have ideas and we know the logic, then don’t sit and learn to code, execute our ideas, and bring them to reality. On the web, we can find several different types of platforms that provide us services to create an android application. However, among them most are paid and&#8230;&#160;<a href="https://github.com/AhteVirus/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn and create Android application without coding</span></a>]]></description>
+					<description><![CDATA[Yes, that is possible, if we have ideas and we know the logic, then don’t sit and learn to code, execute our ideas, and bring them to reality. On the web, we can find several different types of platforms that provide us services to create an android application. However, among them most are paid and&#8230;&#160;<a href="https://ahtevirus.github.io/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn and create Android application without coding</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Yes, that is possible, if we have ideas and we know the logic, then don’t sit and learn to code, execute our ideas, and bring them to reality. On the web, we can find several different types of platforms that provide us services to create an android application. However, among them most are paid and expensive, many are based on templates only, and many don’t consist of several features to fulfill our needs.</p>
 
@@ -288,15 +288,15 @@
 <p><a href="https://t.me/virusahte/" target="_blank" rel="noreferrer noopener">Join AhteVirus&#8217; Telegram Channel for more information related to technology.</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/AhteVirus/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ahtevirus.github.io/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Learn to code in HTML language for free</title>
-		<link>https://github.com/AhteVirus/AhteVirusHub/2020/11/12/learn-code-in-html-language-for-free-with-ahtevirus/</link>
-					<comments>https://github.com/AhteVirus/AhteVirusHub/2020/11/12/learn-code-in-html-language-for-free-with-ahtevirus/#respond</comments>
+		<link>https://ahtevirus.github.io/AhteVirusHub/2020/11/12/learn-code-in-html-language-for-free-with-ahtevirus/</link>
+					<comments>https://ahtevirus.github.io/AhteVirusHub/2020/11/12/learn-code-in-html-language-for-free-with-ahtevirus/#respond</comments>
 		
 		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
 		<pubDate>Thu, 12 Nov 2020 13:54:29 +0000</pubDate>
@@ -308,7 +308,7 @@
 		<category><![CDATA[HTML Element]]></category>
 		<guid isPermaLink="false">https://ahtevirus.tech/?p=316</guid>
 
-					<description><![CDATA[Introduction to HTML HTML is the acronym of Hyper Text Markup Language. HTML is a standard markup language, using which we can build web sites or several web applications. However, This language is straightforward to learn and understand the programming language. HTML can describe the structure of a webpage, as it consists of a series&#8230;&#160;<a href="https://github.com/AhteVirus/AhteVirusHub/2020/11/12/learn-code-in-html-language-for-free-with-ahtevirus/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn to code in HTML language for free</span></a>]]></description>
+					<description><![CDATA[Introduction to HTML HTML is the acronym of Hyper Text Markup Language. HTML is a standard markup language, using which we can build web sites or several web applications. However, This language is straightforward to learn and understand the programming language. HTML can describe the structure of a webpage, as it consists of a series&#8230;&#160;<a href="https://ahtevirus.github.io/AhteVirusHub/2020/11/12/learn-code-in-html-language-for-free-with-ahtevirus/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn to code in HTML language for free</span></a>]]></description>
 										<content:encoded><![CDATA[
 <h2 class="has-neve-link-color-color has-text-color">Introduction to HTML</h2>
 
@@ -370,7 +370,7 @@
 <p>That is it, and now you will be displayed with the content that you have coded. Though this much simple is the language, the central part is your creativity and how you will design your content by coding. However, there are several more things available, which we will cover one by one. And if you also want to learn about such kinds of stuff, then stay connected with the community of <a href="https://ahtevirus.tech/">AhteVirus</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/AhteVirus/AhteVirusHub/2020/11/12/learn-code-in-html-language-for-free-with-ahtevirus/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ahtevirus.github.io/AhteVirusHub/2020/11/12/learn-code-in-html-language-for-free-with-ahtevirus/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Computing &#8211; AhteVirusHub</title>
-	<atom:link href="https://github.com/AhteVirus/AhteVirusHub/tag/computing/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/AhteVirus/AhteVirusHub</link>
+	<atom:link href="https://ahtevirus.github.io/AhteVirusHub/tag/computing/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ahtevirus.github.io/AhteVirusHub</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 07 Jan 2021 06:30:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Steganography &#8211; hide your data inside media</title>
-		<link>https://github.com/AhteVirus/AhteVirusHub/2021/01/07/steganography-hide-your-data-inside-media-2/</link>
-					<comments>https://github.com/AhteVirus/AhteVirusHub/2021/01/07/steganography-hide-your-data-inside-media-2/#respond</comments>
+		<link>https://ahtevirus.github.io/AhteVirusHub/2021/01/07/steganography-hide-your-data-inside-media-2/</link>
+					<comments>https://ahtevirus.github.io/AhteVirusHub/2021/01/07/steganography-hide-your-data-inside-media-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
 		<pubDate>Thu, 07 Jan 2021 06:30:00 +0000</pubDate>
@@ -30,7 +30,7 @@
 		<category><![CDATA[Steganography]]></category>
 		<guid isPermaLink="false">https://ahtevirus.tech/blog/?p=114</guid>
 
-					<description><![CDATA[Let’s start by understanding Steganography. In simple words sending a private or secret message hiding in something is known as Steganography. In this process, you can hide a file, message, image, or video into a different media and send it to the individual with whom you want to share the secret message. The word Steganography&#8230;&#160;<a href="https://github.com/AhteVirus/AhteVirusHub/2021/01/07/steganography-hide-your-data-inside-media-2/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Steganography &#8211; hide your data inside media</span></a>]]></description>
+					<description><![CDATA[Let’s start by understanding Steganography. In simple words sending a private or secret message hiding in something is known as Steganography. In this process, you can hide a file, message, image, or video into a different media and send it to the individual with whom you want to share the secret message. The word Steganography&#8230;&#160;<a href="https://ahtevirus.github.io/AhteVirusHub/2021/01/07/steganography-hide-your-data-inside-media-2/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Steganography &#8211; hide your data inside media</span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Let’s start by understanding Steganography. In simple words sending a private or secret message hiding in something is known as Steganography. In this process, you can hide a file, message, image, or video into a different media and send it to the individual with whom you want to share the secret message. The word Steganography is only a combination of covered writing, which came from Greek words.</p>
 
@@ -99,7 +99,7 @@
 <p>As every lock has a key, to crack encoded, Steganographed files tools like StegCracker can be used.&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/AhteVirus/AhteVirusHub/2021/01/07/steganography-hide-your-data-inside-media-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ahtevirus.github.io/AhteVirusHub/2021/01/07/steganography-hide-your-data-inside-media-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
