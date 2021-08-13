@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for AhteVirusHub	</title>
-	<atom:link href="https://https://ahtevirus.github.io/AhteVirusHub/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://ahtevirus.github.io/AhteVirusHub</link>
+	<atom:link href="https://ahtevirus.github.io/AhteVirusHub/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ahtevirus.github.io/AhteVirusHub</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Fri, 13 Aug 2021 18:59:31 +0000</lastBuildDate>
 	<sy:updatePeriod>
