@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ahtesham &#8211; AhteVirusHub</title>
+	<atom:link href="https://https://ahtevirus.github.io/AhteVirusHub/author/ahtesham/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://ahtevirus.github.io/AhteVirusHub</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 19 Jan 2021 16:17:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Learn about implementation and algorithm</title>
+		<link>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/19/learn-about-implementation-and-algorithm/</link>
+					<comments>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/19/learn-about-implementation-and-algorithm/#respond</comments>
+		
+		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
+		<pubDate>Tue, 19 Jan 2021 16:17:22 +0000</pubDate>
+				<category><![CDATA[Programming]]></category>
+		<guid isPermaLink="false">https://ahtevirus.tech/blog/?p=164</guid>
+
+					<description><![CDATA[Learn about algorithm Learn to implement algorithm in the best manner Cons and pros of the algorithms You ever wondered how Google works as what the user demands? Google uses several complex algorithm to provide such impressive results. To understand Algorithms, we can say that it forms the base of any computing program to achieve&#8230;&#160;<a href="https://https://ahtevirus.github.io/AhteVirusHub/2021/01/19/learn-about-implementation-and-algorithm/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn about implementation and algorithm</span></a>]]></description>
+										<content:encoded><![CDATA[
+<ul><li>Learn about algorithm </li><li>Learn to implement algorithm in the best manner </li><li>Cons and pros of the algorithms</li></ul>
+
+
+
+<p>You ever wondered how <a href="https://google.co.in/" target="_blank" rel="noreferrer noopener nofollow">Google </a>works as what the user demands? Google uses several complex algorithm to provide such impressive results. To understand Algorithms, we can say that it forms the base of any <a href="https://ahtevirus.tech/category/computing/">computing </a>program to achieve the desired result. It is also the first step towards learning the amazing concepts of computer <a href="https://ahtevirus.tech/category/programming/">programming</a>.&nbsp;</p>
+
+
+
+<h2 class="has-neve-link-color-color has-text-color">How to implement algorithm in the best way?</h2>
+
+
+
+<p>If you know about the basics of computers, you must know that a computer system works by taking an input, then processing it, and providing an output. However, while imputing such algorithms to get an output, you must clearly define each step in an unambiguous and crystal clear manner. While writing algorithms, we always need to try that the process completes the minimum number of steps to solve it. Another thing to consider is finite loops, as it is critical to check that the program should end up in an infinite loop. And the last thing to mention is the algorithm should be designed as language-independent.</p>
+
+
+
+<h3 class="has-neve-link-color-color has-text-color">Advantages and disadvantages of algorithms</h3>
+
+
+
+<p>Algorithms are easy to understand, though it consumes too much time to write algorithms. In algorithms, the problem is broken down into smaller pieces, as it is a stepwise representation of a solution to the given problem. Indeed, it makes it easier to convert into an actual program. However, it is tough to branch and loop statements to show in algorithms.</p>
+
+
+
+<h4 class="has-neve-link-color-color has-text-color">Algorithms are created in an order</h4>
+
+
+
+<p>Algorithms are always written in the order of some parameters. If we discuss how to create algorithms, then we need to know about the sequence:</p>
+
+
+
+<ol><li>We need to identify the problem that is needed to be solved.</li><li>We need to find constraints of the problem that are vital to consider while solving.</li><li>We need to create inputs that we need to solve.</li><li>We need to create expected outputs.</li><li>The programmer will need to create a solution to the problem.</li></ol>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/19/learn-about-implementation-and-algorithm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Introduction to HTML</title>
+		<link>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/09/introduction-to-html/</link>
+					<comments>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/09/introduction-to-html/#respond</comments>
+		
+		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
+		<pubDate>Sat, 09 Jan 2021 06:30:00 +0000</pubDate>
+				<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Programming]]></category>
+		<guid isPermaLink="false">https://ahtevirus.tech/blog/?p=127</guid>
+
+					<description><![CDATA[HTML is the acronym of Hyper Text Markup Language. HTML is a standard markup language, using which we can build web sites or several web applications. However, This language is straightforward to learn and understand the programming language. HTML can describe the structure of a webpage, as it consists of a series of elements, and&#8230;&#160;<a href="https://https://ahtevirus.github.io/AhteVirusHub/2021/01/09/introduction-to-html/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Introduction to HTML</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>HTML is the acronym of Hyper Text Markup Language. HTML is a standard markup language, using which we can build web sites or several web applications. However, This language is straightforward to learn and understand the programming language. HTML can describe the structure of a webpage, as it consists of a series of elements, and such features command the browser on how to display any content.&nbsp;</p>
+
+
+
+<h2 class="has-neve-link-color-color has-text-color">A simple HTML document with title, heading, and paragraph</h2>
+
+
+
+<pre class="wp-block-syntaxhighlighter-code">&lt;!DOCTYPE html>
+&lt;html>
+&lt;head>
+&lt;title>Page Title&lt;/title>
+&lt;/head>
+&lt;body>
+
+&lt;h1>My First Heading&lt;/h1>
+&lt;p>My first paragraph.&lt;/p>
+
+&lt;/body>
+&lt;/html></pre>
+
+
+
+<p>Here are some basic HTML tags that are always used. However, we will learn about these tags separately. But this code here will provide an output with title, heading, and name. To try it yourself, copy the given code and <a href="https://ahtevirus.tech/html-code-tester/">click here</a>.</p>
+
+
+
+<h3 class="has-neve-link-color-color has-text-color">HTML Element</h3>
+
+
+
+<p>Every HTML element is written under tags. Such tags start with a tag name between greater and smaller than signs (like: &lt;tagname&gt;) and end with a similar title by adding a backslash before the tag name (like: &lt;/tagname&gt;). However, also consider tags as the essential part of an HTML program as if the programmer opens a title and forgets to close such tag, it can pop an error and result in a blank output.</p>
+
+
+
+<h4 class="has-neve-link-color-color has-text-color">How do browsers use tags?</h4>
+
+
+
+<p>Any browser reads the tags and determines how to display content on the web coded in a document file. However, a browser never shows the code itself. It only takes the codes&#8217; help to determine what to display on the page. Still, if something like that happens, then there must be some <a href="https://stackoverflow.com/questions/21066660/page-shows-code-not-rendering" target="_blank" rel="noreferrer noopener">errors</a> in the code.</p>
+
+
+
+<h5 class="has-neve-link-color-color has-text-color">Code Editor</h5>
+
+
+
+<p>Nowadays, there are several code editors available. However, we can write the HTML code using any text editors, as what matters is the file extension, which needs to be &#8220;.html&#8221;. Steps to writing such code with Notepad:</p>
+
+
+
+<ol><li>Open Notepad.</li><li>Write the above code.</li><li>Click on &#8216;File&#8217; on the menu.</li><li>There choose the &#8216;Save as&#8217; option.</li><li>In the file name area, write &#8220;index.html&#8221;.</li><li>In Save as type, click on the slider menu and choose &#8220;All Files (*.*)&#8221;.</li><li>Set the encoding option below to &#8220;UTF-8&#8221;.</li><li>&#8220;Save&#8221;</li><li>Now to the folder where you have saved the file.</li><li>Right-click on the file.</li><li>Choose &#8220;open with&#8221;.</li><li>And select any browser.</li></ol>
+
+
+
+<p>That is it, and now you will be displayed with the content that you have coded. Though this much simple is the language, the central part is your creativity and how you will design your content by coding. However, there are several more things available, which we will cover one by one. And if you also want to learn about such kinds of stuff, then stay connected with the community of <a href="https://ahtevirus.tech/">AhteVirus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/09/introduction-to-html/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Learn to code for free and communicate with computer systems</title>
+		<link>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/08/learn-to-code-for-free-and-communicate-with-computer-systems-2/</link>
+					<comments>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/08/learn-to-code-for-free-and-communicate-with-computer-systems-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
+		<pubDate>Fri, 08 Jan 2021 08:22:42 +0000</pubDate>
+				<category><![CDATA[Programming]]></category>
+		<guid isPermaLink="false">https://ahtevirus.tech/blog/?p=123</guid>
+
+					<description><![CDATA[Anyone can learn to code. To learn to code every individual needs passion, 5-10 mins per day, dedication, and a brain to understand the logic. Here you know coding from the ground to up. Learning to code is useful to be a programmer? The language using which we communicate with computer systems is known as&#8230;&#160;<a href="https://https://ahtevirus.github.io/AhteVirusHub/2021/01/08/learn-to-code-for-free-and-communicate-with-computer-systems-2/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn to code for free and communicate with computer systems</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Anyone can learn to code. To learn to code every individual needs passion, 5-10 mins per day, dedication, and a brain to understand the logic. Here you know coding from the ground to up.</p>
+
+
+
+<h2 class="has-neve-link-color-color has-text-color">Learning to code is useful to be a programmer?</h2>
+
+
+
+<p>The language using which we communicate with computer systems is known as code. Coding isn’t some alien language, it is just a set of instructions we input using a language that a computer understands. Using codes, we can command a computer, to fulfil several different types of tasks. However, there are several options by which a person can <a href="https://ahtevirus.tech/programming/11/2020/learn-and-create-android-application-without-coding/">learn to program without coding</a>.</p>
+
+
+
+<h3 class="has-neve-link-color-color has-text-color">What are Programming languages?</h3>
+
+
+
+<p>The language which is used to communicate with a computer system is known as the programming language. However, it is observed that at press time, there are around 700 different <a href="https://careerkarma.com/blog/how-many-coding-languages-are-there/#:~:text=According%20to%20Wikipedia%2C%20there%20are,to%20an%20impressive%20245%20languages." target="_blank" rel="noreferrer noopener">programming languages</a> available across the world. As humans use different types of languages like English, French, Arabic, Hindi etc. similarly we can use different kinds of languages to communicate with computers.</p>
+
+
+
+<h4 class="has-neve-link-color-color has-text-color">Why should someone learn to code?</h4>
+
+
+
+<p>Learning programming can open up new opportunities and ways for an individual. If an individual learns to code, the person can take the next step to boost their career. However, several individuals learn to code because of curiosity or fun. Indeed, coding can bring our idea into reality. </p>
+
+
+
+<h5 class="has-neve-link-color-color has-text-color">Fundamentals of programming</h5>
+
+
+
+<p>Programming isn’t a challenging subject to cover. The newbie in this career needs to learn about the functions, variables, controlling the flow of code, manipulation of strings and arrays, advanced concepts, all back functions, learning of standard tools to solve real-life problems, using a code editor etc. However, There are numerous career options to choose, like, game development, website building, software development etc. Though a programmer needs to stay updatetd with current affairs about technology.</p>
+
+
+
+<h6 class="has-neve-link-color-color has-text-color">Some useful programming languages </h6>
+
+
+
+<ol><li><span class="has-inline-color has-neve-link-hover-color-color">Python</span></li><li><span class="has-inline-color has-neve-link-hover-color-color">JavaScript</span></li><li><span class="has-inline-color has-neve-link-hover-color-color">Java</span></li><li><span class="has-inline-color has-neve-link-hover-color-color">C#</span></li><li><span class="has-inline-color has-neve-link-hover-color-color">C</span></li><li><span class="has-inline-color has-neve-link-hover-color-color">C++</span></li><li><span class="has-inline-color has-neve-link-hover-color-color">Swift</span></li><li><span class="has-inline-color has-neve-link-hover-color-color">PHP</span></li><li><span class="has-inline-color has-neve-link-hover-color-color">Perl</span></li><li><span class="has-inline-color has-neve-link-hover-color-color">Ruby</span></li><li><span class="has-inline-color has-neve-link-hover-color-color">HTML</span></li><li><span class="has-inline-color has-neve-link-hover-color-color">CSS</span></li></ol>
+
+
+
+<p>However, if someone learns these languages, the person can be able to create several advanced levels of software, website, and applications. Indeed, the career as a programmer is terrific, but the most important thing to learn to program is passion. If the person is not interested and wants to learn to program, then the person can never succeed. Anyone can learn to code.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/08/learn-to-code-for-free-and-communicate-with-computer-systems-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Steganography &#8211; hide your data inside media</title>
+		<link>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/07/steganography-hide-your-data-inside-media-2/</link>
+					<comments>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/07/steganography-hide-your-data-inside-media-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
+		<pubDate>Thu, 07 Jan 2021 06:30:00 +0000</pubDate>
+				<category><![CDATA[Computing]]></category>
+		<category><![CDATA[Steganography]]></category>
+		<guid isPermaLink="false">https://ahtevirus.tech/blog/?p=114</guid>
+
+					<description><![CDATA[Let’s start by understanding Steganography. In simple words sending a private or secret message hiding in something is known as Steganography. In this process, you can hide a file, message, image, or video into a different media and send it to the individual with whom you want to share the secret message. The word Steganography&#8230;&#160;<a href="https://https://ahtevirus.github.io/AhteVirusHub/2021/01/07/steganography-hide-your-data-inside-media-2/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Steganography &#8211; hide your data inside media</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Let’s start by understanding Steganography. In simple words sending a private or secret message hiding in something is known as Steganography. In this process, you can hide a file, message, image, or video into a different media and send it to the individual with whom you want to share the secret message. The word Steganography is only a combination of covered writing, which came from Greek words.</p>
+
+
+
+<h2 class="has-neve-link-color-color has-text-color">Why is Steganography needed?</h2>
+
+
+
+<p>As of now, everyone must have watched several spy movies. We know that every country has its secret agencies or intelligence agencies. Agents of such high profiled private agencies are spread in different countries. These agents send their confidential information, files, photos, or videos to their agencies by using Steganography’s help, as they cannot send such sensitive information directly.</p>
+
+
+
+<h3 class="has-neve-link-color-color has-text-color">Steganography is used for several generations</h3>
+
+
+
+<p>Steganography isn’t a new concept, as the process of Steganography is used for several generations. If we check the historical data across the world, it is found that the first-ever act of Steganography was recorded back in 440 BC. In this act, <em>Histiaeus</em> sent a message to <em>Aristagoras</em>, who was Histiaenus’s vassal, where he bald his most trusted servant and marked the message on his scalp.</p>
+
+
+
+<p>We can get several examples of Steganography in history on how the peoples used several different ways of transferring secret messages. Back then, peoples used painting, tattoo, toys, or additional writing skills to hide the private message on it to send. We can conclude that there are several different types of steganography techniques, for example, hiding the secret message using <a href="https://ijireeice.com/wp-content/uploads/2013/03/2-SANJAY-DABADGAONKAR-Echo-Hiding-Approach.pdf" target="_blank" rel="noreferrer noopener nofollow">Echo Steganography</a>, in which we can hide the message in the sound waves.</p>
+
+
+
+<p><a href="https://en.wikipedia.org/wiki/Steganography" target="_blank" rel="noreferrer noopener nofollow">Find the list of the type of Steganography in Wikipedia.</a></p>
+
+
+
+<h4 class="has-neve-link-color-color has-text-color">Steganoraphy is used by both hackers and government agencies</h4>
+
+
+
+<p>In this era of technology, Steganography has also been digitized, as using the internet, we can send data from one place to another, just in seconds. Using the technique of Steganography, hackers bind viruses and malware like backdoor, payload, keylogger, or spyware, inside any necessary files like word, docs, XML, excel, photo, or video, and send such files to their victims. Once a victim opens the file, the virus gets executed and starts to infect the system.</p>
+
+
+
+<p>Cryptography and Steganography, combining these two features can help us a lot. Let’s take an example by creating a scenario, one of the spies of X country has gathered several pieces of information and wants to send those to his agency in the country Y, now the spy used a casual selfie and using Steganography, he bound that information in the image and send that. The intelligence agency of country X was previously suspecting the spy. As the spy sends the picture to his agency in country Y, country X’s agency traces the image, as Steganography is a common thing they tried to find whether any hidden message is there or not, and game over.&nbsp;</p>
+
+
+
+<h5 class="has-neve-link-color-color has-text-color">How to hide files inside files?</h5>
+
+
+
+<p>There are several ways of using Steganography. Here we will only know how to hide a text or file inside an image using the Windows Command prompt (CMD).&nbsp;</p>
+
+
+
+<p>Follow the steps below to hide a text inside an image:</p>
+
+
+
+<ol id="block-f6eac277-e8c7-497a-97fe-9bbddcb69c4d"><li>First, create a folder and name it. I will name that ‘Steganography’.</li><li>Put your image file in your folder in which you want to hide your message.</li><li>Above in the file paths address bar, write ‘cmd’.</li><li>Command Prompt will come on the screen, and you will be redirected to the folder path.</li><li>Write &#8211; echo “*Type your secret message here*” &gt;&gt; *image file name*, like <code>echo “Follow AhteVirus” &gt;&gt; ahtevirus.img</code></li><li>Now press ‘Enter’. Done</li><li>To read the secret message, open that ‘.img’ file in any text editor like notepad.</li><li>Scroll down, and in the end, you will find your secret message.</li></ol>
+
+
+
+<p>Follow these steps to hide a zip file inside an image file:</p>
+
+
+
+<ol id="block-b80c2603-db91-4781-94f2-c2d661e356f8"><li>First, create a folder and name it. I will name that ‘Steganography’.</li><li>Put your image file in your folder in which you want to hide your message.</li><li>Above in the file paths address bar, write ‘cmd’.</li><li>Command Prompt will come on the screen, and you will be redirected to the folder path.</li><li>Write &#8211; copy /b *your image file name* + *your zip file name* *new file name*, like <code>copy /b ahtevirus.img + ahtevirus.zip SecretFile.img</code></li><li>Now press ‘Enter’. Done</li><li>To extract that zip file, you need a zip extract software like <a href="https://www.win-rar.com/" target="_blank" rel="noreferrer noopener nofollow">WinRar</a>.</li><li>Extract the image file as you extract a zip file.</li></ol>
+
+
+
+<p>As every lock has a key, to crack encoded, Steganographed files tools like StegCracker can be used.&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/07/steganography-hide-your-data-inside-media-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Learn about Homograph and IDN Homograph</title>
+		<link>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/06/learn-about-homograph-and-idn-homograph/</link>
+					<comments>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/06/learn-about-homograph-and-idn-homograph/#respond</comments>
+		
+		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2021 06:30:00 +0000</pubDate>
+				<category><![CDATA[Computing]]></category>
+		<category><![CDATA[Homograph]]></category>
+		<category><![CDATA[IDN Homograph]]></category>
+		<guid isPermaLink="false">https://ahtevirus.tech/blog/?p=94</guid>
+
+					<description><![CDATA[First, let us understand about homograph and what it is. A homograph is a word that looks and spells the same way but with different meanings. Let&#8217;s take a prevalent word from the dictionary, for example, &#8220;fine,&#8221; which is used as &#8216;very good,&#8217; and according to the situation, it can also be used as &#8216;a&#8230;&#160;<a href="https://https://ahtevirus.github.io/AhteVirusHub/2021/01/06/learn-about-homograph-and-idn-homograph/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn about Homograph and IDN Homograph</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>First, let us understand about homograph and what it is. A homograph is a word that looks and spells the same way but with different meanings. Let&#8217;s take a prevalent word from the dictionary, for example, &#8220;fine,&#8221; which is used as &#8216;very good,&#8217; and according to the situation, it can also be used as &#8216;a sum to settle any matter.&#8217;</p>
+
+
+
+<p>Similarly, in terms of computing, using several fonts, we can create different words that look the same, but the system will reject that those words are the same. Let&#8217;s check some of the names for an example:</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://ahtevirus.tech/wp-content/uploads/2020/11/IMG_20201105_205355-1024x300.jpg" alt="This image has an empty alt attribute; its file name is IMG_20201105_205355-1024x300.jpg" width="437" height="128"/><figcaption>Source: AhteVirus</figcaption></figure></div>
+
+
+
+<p>Doesn&#8217;t the word looks the same?</p>
+
+
+
+<p>But now the first word is the correct one, and the second word is not the correct one. If we focus on the second word, the first alphabet &#8216;m&#8217; is not what it looks as instead of &#8216;m&#8217;,&#8217;r&#8217; and &#8216;n&#8217; is used which if a person will not focus or have weak eyesight, then it&#8217;s impossible to figure out the difference.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://ahtevirus.tech/wp-content/uploads/2020/11/IMG_20201105_205339-1024x231.jpg" alt="This image has an empty alt attribute; its file name is IMG_20201105_205339-1024x231.jpg" width="657" height="148"/><figcaption>Source: AhteVirus</figcaption></figure></div>
+
+
+
+<p>Are these both the same?</p>
+
+
+
+<p>Here also in the second word, instead of &#8220;L&#8221; the capital case of &#8220;i&#8221; has been used. Yes, the creation of these words is known as Homograph.&nbsp;</p>
+
+
+
+<h2 class="has-neve-link-color-color has-text-color">How does IDN Homograph Attack work?</h2>
+
+
+
+<p>IDN is an acronym of Internationalized Domain Name, also known as a spoofing attack. You should know about domain names, as those domain names need to be registered. For example, my registered domain name ”ahtevirus.tech”. As my domain is written in the english language, it is also possible to register domain names with different languages and ASCII values. There are several alphabets available in various languages that match with some other alphabets with varying meanings like ‘O’ in Cyrillic, Greek, Latin is not assigned as the same code.</p>
+
+
+
+<p>This differentiation provides a significant advantage for hackers. Using such differentiation, black hat hackers create similar looking sites, use such websites for phishing attacks, and gather several data like the target’s login credentials and other sensitive information. And this method of phishing is known as the IDN Homograph attack.</p>
+
+
+
+<h3 class="has-neve-link-color-color has-text-color">Several individuals are aware of Phishing Attacks</h3>
+
+
+
+<p>In this era, when phishing attacks became common, most literate populations are aware of such attacks. However, an IDN Homograph attack isn’t something that everyone can recognize. As in the IDN Homograph attack, the hackers use very similarly and hard to remember domain names, with that the website also consists of SSL certification, because of which the ‘https’ assures the target that the site is trustworthy and safe. That is where the hacker succeeds.</p>
+
+
+
+<h4 class="has-neve-link-color-color has-text-color">How to check about the site&#8217;s reality?</h4>
+
+
+
+<p>The concept of IDN Homograph Attack is spooky, and the main question arises on how to know the reality of the website. To figure out whether the website is genuine or a fake one, always check the SSL certificate of the website, and if you find that the website is real, then only continue to input your password else you are brilliant.</p>
+
+
+
+<h5 class="has-neve-link-color-color has-text-color">How to check the SSL certificate?</h5>
+
+
+
+<p>To check the SSL certificate, it isn’t a significant process to check out the SSL certificate. If you are reading this tutorial on Chrome browser’s desktop version, then follow these steps:</p>
+
+
+
+<ol id="block-85066504-3b39-477d-b263-3bda77fa6879"><li>Upside there, you can see several tabs, and below that, in the search bar, you can find the link address to this blog.</li><li>Besides that link address on the left side, there is a lock icon.</li><li>Click on the lock icon. Where you will find “Connection is secure.”</li><li>Below the secure tag, there is a button named “Certificate”.</li><li>Click on the button.</li><li>Now in the general tab, you find “Issued to”</li><li>Below that there a “Common Name (CN)” is provided.</li><li>If the site is authentic, the common name will consist of the actual domain name. Else, you will find the reality of the website.</li></ol>
+
+
+
+<p>Now for those users who are reading this content on Chrome browser’s mobile version, follow these steps:</p>
+
+
+
+<ol id="block-3d01fc8a-f626-4f5e-a99f-0d8b7e6a0b73"><li>At the top of the page, you will find the blog address.</li><li>Besides the address on the left side, a lock icon is available.</li><li>Tap on the lock icon, where you will see a tag “connection is secure.”</li><li>Now, tap on “Details.”</li><li>Below the domain name, you will find “Certificate information”.</li><li>Tap on the Certificate information.</li><li>Below the <a href="https://ahtevirus.tech/">ahtevirus.tech</a> tab, you will find “ISSUED TO”.</li><li>Below which, you can find Common Name (CN).</li><li>If the site is authentic, the common name will consist of the actual domain name. Else, you will find the reality of the website.</li></ol>
+
+
+
+<h6 class="has-neve-link-color-color has-text-color">How do attackers create such links?</h6>
+
+
+
+<p>For the creation of such links, there are several websites available on the web. For example, <a href="http://www.irongeek.com/homoglyph-attack-generator.php">Irongeek</a>, where we can use a free Homograph attack generator. Follow these steps:</p>
+
+
+
+<ol id="block-869fd723-8d0a-4926-8af1-2b75485f0e69"><li>You will be asked to type your name.</li><li>In the field, type the domain name you want to use.</li><li>Now, you will find several alphabets related to your search.</li><li>Select those alphabets which are similar to yours.</li><li>After the selection below, you will find your Homographed name, which will look like the original name.</li><li>Click on submit.</li><li>And you will get the encoded name, which, if you register, you will be provided with the original name&#8217;s dummy.</li></ol>
+
+
+
+<p>However, Homograph is a grave matter, as everyone will not check the sites before inputting their values. Several browser companies like Chrome and Safari have fixed the issue, and we hope that every browser will fix this security issue in the future.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/06/learn-about-homograph-and-idn-homograph/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Learn and create Android application without coding</title>
+		<link>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/</link>
+					<comments>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/#respond</comments>
+		
+		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2021 08:20:28 +0000</pubDate>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[Android Application]]></category>
+		<category><![CDATA[Programming]]></category>
+		<guid isPermaLink="false">https://ahtevirus.tech/blog/?p=77</guid>
+
+					<description><![CDATA[Yes, that is possible, if we have ideas and we know the logic, then don’t sit and learn to code, execute our ideas, and bring them to reality. On the web, we can find several different types of platforms that provide us services to create an android application. However, among them most are paid and&#8230;&#160;<a href="https://https://ahtevirus.github.io/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn and create Android application without coding</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Yes, that is possible, if we have ideas and we know the logic, then don’t sit and learn to code, execute our ideas, and bring them to reality. On the web, we can find several different types of platforms that provide us services to create an android application. However, among them most are paid and expensive, many are based on templates only, and many don’t consist of several features to fulfill our needs.</p>
+
+
+
+<h2 class="has-neve-link-color-color has-text-color">A free platform to create an android application without coding</h2>
+
+
+
+<p>There are several web apps available where we can create android applications like <a href="https://appinventor.mit.edu/" target="_blank" rel="noreferrer noopener nofollow">MIT App inventor</a>, <a href="https://thunkable.com/" target="_blank" rel="noreferrer noopener nofollow">Thunkable</a>, <a href="http://appybuilder.com/" target="_blank" rel="noreferrer noopener nofollow">Appy builder</a>, etc. As these are native platforms they use different lines of codes and have limits in the size of the application. As they use different lines of codes a very small app size also gets boosted, which end ups providing an unoptimized experience.</p>
+
+
+
+<h3 class="has-neve-link-color-color has-text-color">Best Platform to build android apps without coding</h3>
+
+
+
+<p>According to my opinion, <a href="http://sketchware.io/" target="_blank" rel="noreferrer noopener nofollow">Sketchware</a> is the best platform to create android applications using a very easy to understand block language. In skechware’s platform, we can create amazing UI for android applications, just by using a drag and drop feature that makes it very simple to create the line of codes. For UI and main java files what we need is to just drag and drop the blocks according to logic, and the application will itself write the code for us.</p>
+
+
+
+<h4 class="has-neve-link-color-color has-text-color">Continuing the project to Android Studio</h4>
+
+
+
+<p>However, Sketchware uses a different library than Android Studio, we can use the source code file and continue with our project on Android Studio easily. As Sketchware has several features, and components to input, it is not necessary to continue our project to android. When we are getting something that can help to save our time, then what&#8217;s the necessity to make things complicated.</p>
+
+
+
+<h5 class="has-neve-link-color-color has-text-color">Coders can also use Sketchware</h5>
+
+
+
+<p>Sketchware is very convenient to use and can not only help those who don’t know about coding but also can help experienced coders. The features available in it are totally free, however, sometimes they show ads, but not at every point so it is acceptable. We can also purchase an ad-free version that is too cheap if you are creating high-level applications for earning purposes.</p>
+
+
+
+<h6 class="has-neve-link-color-color has-text-color">Not available for all platform</h6>
+
+
+
+<p>The only disadvantage of Sketchware IDE is that it only supports Android operating systems. If you want to use it on devices like PCs or laptops then you will need to install android operating systems on it. However, there are many available android operating systems, like Phoenix OS that can be installed on your device alongside windows and you can enjoy a dual-booting facility.</p>
+
+
+
+<h6 class="has-neve-link-color-color has-text-color">Where to learn the block language?</h6>
+
+
+
+<p>No worries, there are several videos and websites with tutorial blog available on the internet. Not only that soon we will also start with tutorials on our page of <a href="https://ahtevirus.tech/">AhteVirus</a>. In the tutorial, we will start with basics and try to cover as many aspects. Not only programming, but we will try our best to cover everything from designing to external integrations like ads and databases.&nbsp;</p>
+
+
+
+<p>We really need support and stay tuned with us.</p>
+
+
+
+<p><a href="https://t.me/virusahte/" target="_blank" rel="noreferrer noopener">Join AhteVirus&#8217; Telegram Channel for more information related to technology.</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://ahtevirus.github.io/AhteVirusHub/2021/01/01/learn-and-create-android-application-without-coding/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Learn to code in HTML language for free</title>
+		<link>https://https://ahtevirus.github.io/AhteVirusHub/2020/11/12/learn-code-in-html-language-for-free-with-ahtevirus/</link>
+					<comments>https://https://ahtevirus.github.io/AhteVirusHub/2020/11/12/learn-code-in-html-language-for-free-with-ahtevirus/#respond</comments>
+		
+		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2020 13:54:29 +0000</pubDate>
+				<category><![CDATA[Programming]]></category>
+		<category><![CDATA[A simple HTML Document]]></category>
+		<category><![CDATA[Code Editor]]></category>
+		<category><![CDATA[How do browsers use tags?]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[HTML Element]]></category>
+		<guid isPermaLink="false">https://ahtevirus.tech/?p=316</guid>
+
+					<description><![CDATA[Introduction to HTML HTML is the acronym of Hyper Text Markup Language. HTML is a standard markup language, using which we can build web sites or several web applications. However, This language is straightforward to learn and understand the programming language. HTML can describe the structure of a webpage, as it consists of a series&#8230;&#160;<a href="https://https://ahtevirus.github.io/AhteVirusHub/2020/11/12/learn-code-in-html-language-for-free-with-ahtevirus/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Learn to code in HTML language for free</span></a>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="has-neve-link-color-color has-text-color">Introduction to HTML</h2>
+
+
+
+<p>HTML is the acronym of Hyper Text Markup Language. HTML is a standard markup language, using which we can build web sites or several web applications. However, This language is straightforward to learn and understand the programming language. HTML can describe the structure of a webpage, as it consists of a series of elements, and such features command the browser on how to display any content.&nbsp;</p>
+
+
+
+<h2 class="has-neve-link-color-color has-text-color">A simple HTML document with title, heading, and paragraph</h2>
+
+
+
+<pre class="wp-block-syntaxhighlighter-code">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;Page Title&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;h1&gt;My First Heading&lt;/h1&gt;
+&lt;p&gt;My first paragraph.&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+
+
+
+<p>Here are some basic HTML tags that are always used. However, we will learn about these tags separately. But this code here will provide an output with title, heading, and name. To try it yourself, copy the given code and <a href="https://ahtevirus.tech/html-code-tester/">click here</a>.</p>
+
+
+
+<h2 class="has-neve-link-color-color has-text-color">HTML Element</h2>
+
+
+
+<p>Every HTML element is written under tags. Such tags start with a tag name between greater and smaller than signs (like: &lt;tagname&gt;) and end with a similar title by adding a backslash before the tag name (like: &lt;/tagname&gt;). However, also consider tags as the essential part of an HTML program as if the programmer opens a title and forgets to close such tag, it can pop an error and result in a blank output.</p>
+
+
+
+<h2 class="has-neve-link-color-color has-text-color">How do browsers use tags?</h2>
+
+
+
+<p>Any browser reads the tags and determines how to display content on the web coded in a document file. However, a browser never shows the code itself. It only takes the codes&#8217; help to determine what to display on the page. Still, if something like that happens, then there must be some <a href="https://stackoverflow.com/questions/21066660/page-shows-code-not-rendering">errors</a> in the code.</p>
+
+
+
+<h2 class="has-neve-link-color-color has-text-color">Code Editor</h2>
+
+
+
+<p>Nowadays, there are several code editors available. However, we can write the HTML code using any text editors, as what matters is the file extension, which needs to be &#8220;.html&#8221;. Steps to writing such code with Notepad:</p>
+
+
+
+<ol><li>Open Notepad.</li><li>Write the above code.</li><li>Click on &#8216;File&#8217; on the menu.</li><li>There choose the &#8216;Save as&#8217; option.</li><li>In the file name area, write &#8220;index.html&#8221;.</li><li>In Save as type, click on the slider menu and choose &#8220;All Files (*.*)&#8221;.</li><li>Set the encoding option below to &#8220;UTF-8&#8221;.</li><li>&#8220;Save&#8221;</li><li>Now to the folder where you have saved the file.</li><li>Right-click on the file.</li><li>Choose &#8220;open with&#8221;.</li><li>And select any browser.</li></ol>
+
+
+
+<p>That is it, and now you will be displayed with the content that you have coded. Though this much simple is the language, the central part is your creativity and how you will design your content by coding. However, there are several more things available, which we will cover one by one. And if you also want to learn about such kinds of stuff, then stay connected with the community of <a href="https://ahtevirus.tech/">AhteVirus</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://ahtevirus.github.io/AhteVirusHub/2020/11/12/learn-code-in-html-language-for-free-with-ahtevirus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Methods of rooting an Android Device</title>
+		<link>https://https://ahtevirus.github.io/AhteVirusHub/2020/11/02/methods-of-rooting-an-android-device/</link>
+					<comments>https://https://ahtevirus.github.io/AhteVirusHub/2020/11/02/methods-of-rooting-an-android-device/#respond</comments>
+		
+		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2020 04:51:31 +0000</pubDate>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[android access]]></category>
+		<category><![CDATA[how to root android]]></category>
+		<category><![CDATA[root android]]></category>
+		<category><![CDATA[rooting android]]></category>
+		<guid isPermaLink="false">https://ahtevirus.tech/?p=56</guid>
+
+					<description><![CDATA[There isn&#8217;t only one method available to root all android devices. Instead, every device has different ways to get rooted. However, Several methods are common, from which anyone can help root your device. Some of the methods to root your device without using a PC are as follows: Magisk Root With the Magisk root application,&#8230;&#160;<a href="https://https://ahtevirus.github.io/AhteVirusHub/2020/11/02/methods-of-rooting-an-android-device/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Methods of rooting an Android Device</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>There isn&#8217;t only one method available to <a href="https://draft.blogger.com/u/2/blog/post/edit/6434838655018370610/8780580867197378915#">root</a> all android devices. Instead, every device has different ways to get rooted. However, Several methods are common, from which anyone can help root your device.</p>
+
+
+
+<p>Some of the methods to root your device without using a PC are as follows:</p>
+
+
+
+<ul>
+<li><span class="has-inline-color" style="color: #ffa500;">Magisk Root</span></li>
+</ul>
+
+
+
+<p>With the <a href="https://draft.blogger.com/u/2/blog/post/edit/6434838655018370610/8780580867197378915#" target="_blank" rel="noreferrer noopener">Magisk root</a> application, many android devices can get root access. It is an open-source project. As we know that after rooting our device, we don&#8217;t get any OTA update and as the process of rooting your device is not easy, you become frustrated while rooting and unrooting your device. Magisk brings a solution for your frustration, as it is a systemless rooting system, as you can grant root access without touching your device&#8217;s core code.</p>
+
+
+
+<ul>
+<li><span class="has-inline-color" style="color: #ffa500;">Framaroot</span></li>
+</ul>
+
+
+
+<p><a href="https://draft.blogger.com/u/2/blog/post/edit/6434838655018370610/8780580867197378915#" target="_blank" rel="noreferrer noopener">Framaroot</a> is another application allowing you to root your android device without using a PC. However, it&#8217;s easy to root a device using this application, but a deficient number of devices are supported on their platform. Still, you can try to find with your device&#8217;s name and model number, whether it is supported on their platform or not from <a href="https://draft.blogger.com/u/2/blog/post/edit/6434838655018370610/8780580867197378915#">here</a>.</p>
+
+
+
+<ul>
+<li><span class="has-inline-color" style="color: #ffa500;">KingRoot</span></li>
+</ul>
+
+
+
+<p><a href="https://draft.blogger.com/u/2/blog/post/edit/6434838655018370610/8780580867197378915#" target="_blank" rel="noreferrer noopener">KingRoot</a> is the application allowing one tap root to its users. It supports several devices to give root access easily on their platform. Indeed, it&#8217;s the first application I used to root my device and learn more about them. However, not every device is supported on their platform but can try that application as it never harms your device.</p>
+
+
+
+<ul>
+<li><span class="has-inline-color" style="color: #ffa500;">CF-Auto-Root</span></li>
+</ul>
+
+
+
+<p><a href="https://draft.blogger.com/u/2/blog/post/edit/6434838655018370610/8780580867197378915#" target="_blank" rel="noreferrer noopener">CF-Auto-Root</a> is an application created by XDA developers. For beginners who have no or little knowledge about rooting android devices can use this application with closed eyes. However, this application is only used for Samsung and Nexus stock firmware. If you use this application, stay calm as there is no harm because it only installs SuperSU and enables root access.</p>
+
+
+
+<ul>
+<li><span class="has-inline-color" style="color: #ffa500;">Virtual Xposed Framework</span></li>
+</ul>
+
+
+
+<p>Unlike other applications, <a href="https://draft.blogger.com/u/2/blog/post/edit/6434838655018370610/8780580867197378915#" target="_blank" rel="noreferrer noopener">Virtual Xposed</a> never provides full root access in your device, instead, you can install an application that needs root access on their platform and use it. It&#8217;s a free way of gaining root access and consists of a very easy to use framework. The application itself acts as a gateway to root. However, not everything is possible by using this application. But it can give a good experience of a rooted device.</p>
+
+
+
+<ul>
+<li><span class="has-inline-color" style="color: #ffa500;">Android x86 Operating System</span></li>
+</ul>
+
+
+
+<p>Another way of enjoying root access is by installing android x86 OS on your PC. These you can dual boot your PC with such OS and use those for experimental purposes. These Android OS&#8217;s come with pre-installed root access to enable a switch to gain root access. It&#8217;s fun using such operating systems, as you can enjoy a full android framework on PC with total control. Some examples of such OS&#8217;s are <a href="https://draft.blogger.com/u/2/blog/post/edit/6434838655018370610/8780580867197378915#" target="_blank" rel="noreferrer noopener">Bliss OS</a>, <a href="https://draft.blogger.com/u/2/blog/post/edit/6434838655018370610/8780580867197378915#" target="_blank" rel="noreferrer noopener">Phoenix OS</a>, <a href="https://draft.blogger.com/u/2/blog/post/edit/6434838655018370610/8780580867197378915#" target="_blank" rel="noreferrer noopener">Remix OS</a>, and several other <a href="https://draft.blogger.com/u/2/blog/post/edit/6434838655018370610/8780580867197378915#" target="_blank" rel="noreferrer noopener">x86 OS</a>.</p>
+
+
+
+<p>Now it depends on which method you will choose to root your device. However, always stay sure before rooting your device as the method you are using could work or not. Else use virtual Xposed and x86 OS type frameworks to experience root access.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://ahtevirus.github.io/AhteVirusHub/2020/11/02/methods-of-rooting-an-android-device/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Android Rooting</title>
+		<link>https://https://ahtevirus.github.io/AhteVirusHub/2020/11/01/android-rooting/</link>
+					<comments>https://https://ahtevirus.github.io/AhteVirusHub/2020/11/01/android-rooting/#respond</comments>
+		
+		<dc:creator><![CDATA[Ahtesham]]></dc:creator>
+		<pubDate>Sun, 01 Nov 2020 20:30:08 +0000</pubDate>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[android access]]></category>
+		<category><![CDATA[rooting android]]></category>
+		<guid isPermaLink="false">https://ahtevirus.tech/?p=42</guid>
+
+					<description><![CDATA[What is Rooting Android? No, it&#8217;s not the root of any tree, but the root of android. The rooting process allows the users of the mobile, tablet, or any platform that runs on the Android operating system to gain overall privileged control over the android subsystem. As android uses Linux Kernel, when we root our&#8230;&#160;<a href="https://https://ahtevirus.github.io/AhteVirusHub/2020/11/01/android-rooting/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Android Rooting</span></a>]]></description>
+										<content:encoded><![CDATA[
+<h2 class="has-text-color" style="color:#ffa500">What is Rooting Android?</h2>
+
+
+
+<p>No, it&#8217;s not the root of any tree, but the root of android. The rooting process allows the users of the mobile, tablet, or any platform that runs on the Android operating system to gain overall privileged control over the android subsystem. As android uses Linux Kernel, when we root our android, it provides equal access to administrative permissions as on Linux-based operating systems like Unix, macOS, FreeBSD, etc.</p>
+
+
+
+<h2 class="has-text-color" style="color:#ffa500">Are there any benefits of rooting android?</h2>
+
+
+
+<p>Rooting your android platform has several benefits. Some of the services are as follows:</p>
+
+
+
+<ul><li>Take control</li></ul>
+
+
+
+<p>It provides an opportunity to back control of your device. Many or most of the android platforms restrict their users to customize the software infrastructures, not with bad intention but to prevent accidental damage of its infrastructure.</p>
+
+
+
+<ul><li>Free up space by removing bloatware</li></ul>
+
+
+
+<p>In new smartphones, the manufacturers preinstall some bloatware as the developers get paid to preinstall those applications, and it usually gets impossible to remove such apps. However, with full control, we can easily remove those applications which are not useful for us by merely rooting the device.</p>
+
+
+
+<ul><li>Custom Roms</li></ul>
+
+
+
+<p>In a rooted device, you also can install custom ROMs and enjoy several different types of operating systems. You can install other operating systems and alternative software kernels. This feature can help you enjoy new features without purchasing new devices. Some use this feature to update new android versions in tools that get no updates.</p>
+
+
+
+<h2 class="has-text-color" style="color:#ffa500">Not only advantages, but it also consists of several disadvantages.</h2>
+
+
+
+<p>Everything in the world has disadvantages with advantages. Similarly, rooting your device also consists of several disadvantages. Some of them as follows:</p>
+
+
+
+<ul><li>Voids the warranty</li></ul>
+
+
+
+<p>If you root your device, the warranty of such devices gets void by the manufacturer. As you gain the root access, the moment your warranty gets void. Afterward, if something happens to your software or hardware, your manufacturer will never fix such problems. However, rooting an android device isn&#8217;t illegal in any country.</p>
+
+
+
+<ul><li>Chances of brick</li></ul>
+
+
+
+<p>While rooting your device, there remain precarious chances that your device gets bricked. However, it is a rare possibility, and such problems only occur when you don&#8217;t root your device correctly. Every device has different ways and variables to get rooted, and if you don&#8217;t have a great idea about that, it would be better to ask someone else to make that possible for you. However, bricked devices can be fixed by flashing firmware.</p>
+
+
+
+<ul><li>Makes devices vulnerable</li></ul>
+
+
+
+<p>No other devices are as vulnerable as rooted devices. After rooting your device, you might get access to several features. Still, you have to be very selective while downloading and using any applications, as it stops scanning for malicious applications and allows everything to run on your device.</p>
+
+
+
+<ul><li>Losing access to secure applications</li></ul>
+
+
+
+<p>Rooting might make you lose several high-security applications like payment applications. Several apps with high-security checks whether your device is rooted or not after that, it starts functioning. However, losing access to some essential applications can cause several difficulties.</p>
+
+
+
+<p>If you think rooting your device is worthy, then first get a piece of useful knowledge about rooting devices, and then after thinking intelligently, take steps ahead to root your android device.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://https://ahtevirus.github.io/AhteVirusHub/2020/11/01/android-rooting/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
