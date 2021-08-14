@@ -11,7 +11,7 @@
 	<title>android access &#8211; AhteVirusHub</title>
 	<atom:link href="https://ahtevirus.github.io/AhteVirusHub/tag/android-access/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ahtevirus.github.io/AhteVirusHub</link>
-	<description>Just another WordPress site</description>
+	<description>Connecting You to Technology</description>
 	<lastBuildDate>Mon, 02 Nov 2020 04:51:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>https://ahtevirus.github.io/AhteVirusHub/wp-content/uploads/2021/05/cropped-ahtevirus_lab1-1-150x150.png</url>
+	<title>android access &#8211; AhteVirusHub</title>
+	<link>https://ahtevirus.github.io/AhteVirusHub</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Methods of rooting an Android Device</title>
 		<link>https://ahtevirus.github.io/AhteVirusHub/2020/11/02/methods-of-rooting-an-android-device/</link>

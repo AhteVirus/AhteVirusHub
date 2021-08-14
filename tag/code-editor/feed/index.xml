@@ -11,7 +11,7 @@
 	<title>Code Editor &#8211; AhteVirusHub</title>
 	<atom:link href="https://ahtevirus.github.io/AhteVirusHub/tag/code-editor/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ahtevirus.github.io/AhteVirusHub</link>
-	<description>Just another WordPress site</description>
+	<description>Connecting You to Technology</description>
 	<lastBuildDate>Thu, 12 Nov 2020 13:54:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>https://ahtevirus.github.io/AhteVirusHub/wp-content/uploads/2021/05/cropped-ahtevirus_lab1-1-150x150.png</url>
+	<title>Code Editor &#8211; AhteVirusHub</title>
+	<link>https://ahtevirus.github.io/AhteVirusHub</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Learn to code in HTML language for free</title>
 		<link>https://ahtevirus.github.io/AhteVirusHub/2020/11/12/learn-code-in-html-language-for-free-with-ahtevirus/</link>

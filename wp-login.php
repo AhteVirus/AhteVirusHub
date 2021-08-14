@@ -12,7 +12,11 @@
 <link rel="stylesheet" id="login-css" href="https://ahtevirus.github.io/AhteVirusHub/wp-admin/css/login.min.css?ver=5.8" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://ahtevirus.github.io/AhteVirusHub/wp-content/uploads/2021/05/cropped-ahtevirus_lab1-1-150x150.png" sizes="32x32">
+<link rel="icon" href="https://ahtevirus.github.io/AhteVirusHub/wp-content/uploads/2021/05/cropped-ahtevirus_lab1-1-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://ahtevirus.github.io/AhteVirusHub/wp-content/uploads/2021/05/cropped-ahtevirus_lab1-1-300x300.png">
+<meta name="msapplication-TileImage" content="https://ahtevirus.github.io/AhteVirusHub/wp-content/uploads/2021/05/cropped-ahtevirus_lab1-1-300x300.png">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
@@ -57,7 +61,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 <script type="text/javascript" src="https://ahtevirus.github.io/AhteVirusHub/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <script type="text/javascript" id="zxcvbn-async-js-extra">
 /*  */
-var _zxcvbnSettings = {"src":"https:\/\/ahtevirus.github.io\/AhteVirusHub\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"http:\/\/localhost\/AhteVirusHub\/wp-includes\/js\/zxcvbn.min.js"};
 /*  */
 </script>
 <script type="text/javascript" src="https://ahtevirus.github.io/AhteVirusHub/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
@@ -90,7 +94,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/AhteVirusHub\/wp-admin\/admin-ajax.php"}
 <script type="text/javascript" src="https://ahtevirus.github.io/AhteVirusHub/wp-includes/js/wp-util.min.js?ver=5.8" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"3b2b755916"};
+var userProfileL10n = {"user_id":"0","nonce":"0398265366"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
